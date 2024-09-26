@@ -1,11 +1,15 @@
-## Hi there 👋
+## Hello world 👋
+I'm a French software engineer based at Bordeaux, France. I enjoy test new technologies into project to be able to understand how the "tech world" evolves years after years.  
+I have mainly "DevOps" and Backend skills and the Basic front-end skills.
+You can see my portfolio [there](https://www.benjaminconotte.me/).
+
 
 <!--
 **BenjaminConotte/BenjaminConotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
